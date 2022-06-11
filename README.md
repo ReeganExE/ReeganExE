@@ -13,7 +13,10 @@ I'm also interested in building automation as I'm not a fan of doing things repe
 
 <h2>Tools made in spare time</h2>
 
+  - [This page](https://github.com/ReeganExE) - Built by Gatsby <sup>(Gatsby, Gitlab CI/CD)</sup>
  - [Open Cookies.txt](https://chrome.google.com/webstore/detail/open-cookiestxt/gdocmgbfkjnnpapoeobnolbbkoibbcif) - Least privilege Cookies.txt Extension <sup>(React, TypeScript, Github Actions)</sup>
+ - [github-action-job-id](https://github.com/ReeganExE/github-action-job-id) - Expose job details as environment variables <sup>(Github script, Github Actions)</sup>
+ - [gh-action-telegram-notify](https://github.com/ReeganExE/github-action-telegram-notify) - Post the current build URL to a group, channel or chat when a job started <sup>(Github script, Github Actions)</sup>
  - [simcrypt-cli](https://github.com/ReeganExE/simcrypt-cli) - Encrypt/decrypt data/message using 256-bit AES-GCM encryption <sup>(Go, Github Actions)</sup>
  - [Quick Picture Upload](https://github.com/ReeganExE/quickpic) - A Chrome Extension that just Ctrl/Cmd + V and upload <sup>(React, Chrome APIs, Github Actions)</sup>
  - [Quick QR Code](https://github.com/ReeganExE/qrcode-extension) - An OPEN Chrome Extension that displays QR code of current page <sup>(React, Chrome APIs, Github Actions)</sup>
@@ -40,6 +43,5 @@ I'm also interested in building automation as I'm not a fan of doing things repe
  - [Voz Multi Accounts](https://github.com/ReeganExE/voz-multiacc) - Add ability to log in multiple accounts <sup>(Pure ES6, Webpack)</sup>
  - [Open Lab Connect](https://github.com/OpenLabConnect/OpenLabConnect/tree/parsers) - The open source is to interface with analyzer machine <sup>(MEAN stack (Since 2016))</sup>
  - [Button Animation](https://github.com/ReeganExE/wave-animation) - An implementation of Google Chrome logo effect using pure JS <sup>(Pure JS)</sup>
- - [Chrome Script Executor](https://github.com/ReeganExE/chrome-script-execution) - Evaluate multiple scripts in Chrome Extension <sup>(Pure JS)</sup>
  - [Home page](https://ninh.js.org) - A static website built by Gatsby <sup>Gatsby</sup>
  - And much more ... - A lot more private tools, crawlers, ...
