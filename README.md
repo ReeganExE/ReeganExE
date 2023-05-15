@@ -16,6 +16,7 @@ I'm also interested in building automation as I'm not a fan of doing things repe
   - [This page](https://github.com/ReeganExE) - Built by Gatsby <sup>(Gatsby, Gitlab CI/CD)</sup>
  - [Open Cookies.txt](https://chrome.google.com/webstore/detail/open-cookiestxt/gdocmgbfkjnnpapoeobnolbbkoibbcif) - Least privilege Cookies.txt Extension <sup>(React, TypeScript, Github Actions)</sup>
  - [Liquidity Lock Notifier](https://twitter.com/UnicryptLock) - Notifies when a new liquidity pool is locked <sup>(ETH, Blockchain, Telegram Bot)</sup>
+ - [Smallest Docker HTTP Server](https://hub.docker.com/r/reeganexe/small-http) - 4MB docker image for starting a test deployment. <sup>(Go, Docker, `arm64`)</sup>
  - [rclone-web-template-react](https://github.com/ReeganExE/rclone-web-template-react) - Renders rclone HTTP web page as your own design with React <sup>(React, rclone)</sup>
  - [github-action-job-id](https://github.com/ReeganExE/github-action-job-id) - Expose job details as environment variables <sup>(Github script, Github Actions)</sup>
  - [gh-action-telegram-notify](https://github.com/ReeganExE/github-action-telegram-notify) - Post the current build URL to a group, channel or chat when a job started <sup>(Github script, Github Actions)</sup>
