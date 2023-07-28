@@ -14,9 +14,9 @@ I'm also interested in building automation as I'm not a fan of doing things repe
 <h2>Tools made in spare time</h2>
 
  - [This page](https://github.com/ReeganExE) - Built by Gatsby <sup>(Gatsby, Gitlab CI/CD)</sup>
- - [github.com/ReeganExE/quick-res](github.com/ReeganExE/quick-res) - `res.json(), res.text()` for Edge workers <sup>(Serverless Workers)</sup>
+ - [github.com/ReeganExE/quick-res](https://github.com/ReeganExE/quick-res) - `res.json(), res.text()` for Edge workers <sup>(Serverless Workers)</sup>
  - [npmjs.com/package/node-edge-server](https://www.npmjs.com/package/node-edge-server) - Edge Server Adapter for Node.js <sup>(Serverless Workers)</sup>
- - [npmjs.com/package/multi-layers-cache](npmjs.com/package/multi-layers-cache) - Multi layers cache <sup>(Serverless Workers)</sup>
+ - [npmjs.com/package/multi-layers-cache](https://npmjs.com/package/multi-layers-cache) - Multi layers cache <sup>(Serverless Workers)</sup>
  - [Open Cookies.txt](https://chrome.google.com/webstore/detail/open-cookiestxt/gdocmgbfkjnnpapoeobnolbbkoibbcif) - Least privilege Cookies.txt Extension <sup>(React, TypeScript, Github Actions)</sup>
  - [Liquidity Lock Notifier](https://twitter.com/UnicryptLock) - Notifies when a new liquidity pool is locked <sup>(ETH, Blockchain, Telegram Bot)</sup>
  - [Smallest Docker HTTP Server](https://hub.docker.com/r/reeganexe/small-http) - 4MB docker image for starting a test deployment. <sup>(Go, Docker, `arm64`)</sup>
