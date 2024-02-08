@@ -2,10 +2,11 @@
 
 <h1 align="center">👋 Hi, I'm Ninh.</h1>
 
+My current role involves technology: **Go, Kubernetes, Service Mesh, AWS, Terraform, Next.js, Tailwind**.
+
 I'm a variety developer that dabbles in multiple fields such as Web, CLI, Browser Extension, backend development and DevOps 👨‍💻.
 
 I'm also interested in building automation as I'm not a fan of doing things repeatedly.
-
 
 <p align="center">
   <img src="https://github.com/ReeganExE/ReeganExE/assets/7277418/3d6d2f78-659d-465b-b670-6a83686fb233" align="center" />
